@@ -1,0 +1,15 @@
+# Virtual env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large/generated files
+*.wav
+*.png
+*.jpg
+
+# Editors
+.vscode/
